@@ -109,7 +109,7 @@ body {
 
 .info-text {
     color: #cccccc;
-    font-size: clamp(16px, 2.2vh, 18px);
+    font-size: clamp(18px, 3vh, 20px);
     line-height: 1.4;
     flex: 1;
 }
@@ -165,7 +165,7 @@ body {
     padding: 1vh 4vw;
     background: rgba(245, 222, 179, 0.05);
     color: #f5f5dc;
-    font-size: clamp(16px, 2.2vh, 20px);
+    font-size: clamp(18px, 2.4vh, 22px);
     flex-shrink: 0;
     line-height: 1.2;
     font-style: italic;
