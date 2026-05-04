@@ -7,9 +7,10 @@
 Este sistema representa una solución de software orientada a la transición digital de perfiles profesionales. Se trata de una **Progressive Web App (PWA)** diseñada bajo una filosofía de arquitectura funcional, donde la complejidad técnica se gestiona internamente para ofrecer una interfaz minimalista, fluida y de alto rendimiento.
 
 ## 2. Previsualización del Sistema
-![Captura de la Tarjeta Digital](<img src="./images/screenshot.png" width="300" alt="Screenshot">)
-
-*Interfaz optimizada para dispositivos móviles con política de Zero-Scroll.*
+<div align="center">
+  <img src="./images/screenshot.png" width="250" alt="Captura de la Tarjeta Digital">
+  <p><i>Interfaz optimizada para dispositivos móviles con política de Zero-Scroll.</i></p>
+</div>
 
 ## 3. Problemática
 El intercambio de información de contacto tradicional presenta fricciones de almacenamiento, pérdida de datos y falta de interactividad. Este proyecto resuelve la necesidad de una plataforma centralizada que sea:
