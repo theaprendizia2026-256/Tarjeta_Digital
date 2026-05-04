@@ -1,12 +1,13 @@
 # PROYECTO: Sistema de Identidad Digital PWA
 **Technical Stack:** Vanilla HTML5 / CSS3 / JavaScript
-**Deployment:** [https://tarjeta-arte.vercel.app/](https://tarjeta-arte.vercel.app/)
+**Deployment:** [https://tarjeta-arte.vercel.app/]
+(https://tarjeta-arte.vercel.app/)
 
 ## 1. Introducción
 Este sistema representa una solución de software orientada a la transición digital de perfiles profesionales. Se trata de una **Progressive Web App (PWA)** diseñada bajo una filosofía de arquitectura funcional, donde la complejidad técnica se gestiona internamente para ofrecer una interfaz minimalista, fluida y de alto rendimiento.
 
 ## 2. Previsualización del Sistema
-![Captura de la Tarjeta Digital](./images/screenshot.png)
+![Captura de la Tarjeta Digital](./images/screenshot.jpg)
 *Interfaz optimizada para dispositivos móviles con política de Zero-Scroll.*
 
 ## 3. Problemática
