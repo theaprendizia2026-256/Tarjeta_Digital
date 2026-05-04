@@ -7,7 +7,8 @@
 Este sistema representa una solución de software orientada a la transición digital de perfiles profesionales. Se trata de una **Progressive Web App (PWA)** diseñada bajo una filosofía de arquitectura funcional, donde la complejidad técnica se gestiona internamente para ofrecer una interfaz minimalista, fluida y de alto rendimiento.
 
 ## 2. Previsualización del Sistema
-![Captura de la Tarjeta Digital](./images/screenshot.jpg)
+![Captura de la Tarjeta Digital](<img src="./images/screenshot.png" width="300" alt="Screenshot">)
+
 *Interfaz optimizada para dispositivos móviles con política de Zero-Scroll.*
 
 ## 3. Problemática
