@@ -1,4 +1,4 @@
-# PROYECTO: Sistema de Identidad Digital PWA
+# PROYECTO: Tarjeta Digital - PWA
 **Technical Stack:** Vanilla HTML5 / CSS3 / JavaScript
 **Deployment:** [https://tarjeta-arte.vercel.app/]
 
