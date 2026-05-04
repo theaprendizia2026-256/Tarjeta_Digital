@@ -109,7 +109,7 @@ body {
 
 .info-text {
     color: #cccccc;
-    font-size: clamp(18px, 2.8vh, 20px);
+    font-size: clamp(16px, 2.6vh, 18px);
     line-height: 1.4;
     flex: 1;
 }
