@@ -84,7 +84,7 @@ body {
 .info-item {
     display: flex;
     align-items: center;
-    margin-bottom: 0.9vh;
+    margin-bottom: 0.8vh;
     padding: 1.2vh 4vw;
     background: rgba(255, 255, 255, 0.03);
     border-radius: 5px;
@@ -109,7 +109,7 @@ body {
 
 .info-text {
     color: #cccccc;
-    font-size: clamp(20px, 3.5vh, 22px);
+    font-size: clamp(19px, 3vh, 21px);
     line-height: 1.4;
     flex: 1;
 }
