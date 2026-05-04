@@ -165,7 +165,7 @@ body {
     padding: 1vh 4vw;
     background: rgba(245, 222, 179, 0.05);
     color: #f5f5dc;
-    font-size: clamp(20px, 2.5vh, 24px);
+    font-size: clamp(18px, 2vh, 22px);
     flex-shrink: 0;
     line-height: 1.2;
     font-style: italic;
